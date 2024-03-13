@@ -28,8 +28,17 @@
                         <a class="nav-link" href="Register.aspx">Master Page</a>
                     </li>
                     <li class="nav-item">
-     <a class="nav-link" href="#">IsPostBack</a>
+     <a class="nav-link" href="IPExample.aspx">IsPostBack</a>
  </li>
+                                       <li class="nav-item">
+    <a class="nav-link" href="VSExample.aspx">Viewstate</a>
+</li>
+                                                           <li class="nav-item">
+    <a class="nav-link" href="S1.aspx">Session</a>
+</li>
+                                                                               <li class="nav-item">
+    <a class="nav-link" href="Q1.aspx">Query String</a>
+</li>
                    
                 </ul>
             </nav>
